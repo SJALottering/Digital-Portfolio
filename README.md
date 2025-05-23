@@ -33,7 +33,6 @@ This portfolio includes:
 ---
 
 ## 🚀 How to Use This Portfolio
-![github image](https://github.com/user-attachments/assets/1bdad8d2-3e4f-45da-9e23-221e73469604)
 
 To view the portfolio live:  
 🔗 https://github.com/SJALottering
